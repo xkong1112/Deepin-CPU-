@@ -1,6 +1,6 @@
 # Deepin-CPU-automatic frequnency reduction
 ```
-sudo apt install i7z#查看CPU频率，全满就是不知道降频的那种
+sudo apt install i7z#check CPU frequency
 sudo i7z
 sudo apt install cpufrequtils
 sudo vim /etc/default/grub
